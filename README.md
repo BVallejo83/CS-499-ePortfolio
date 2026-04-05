@@ -94,3 +94,9 @@ Close Program
 
 Explanation
 This enhancement reorganizes the project by separating scene management from rendering tasks. The Scene Manager is responsible for loading and updating scene objects, while the Rendering Manager focuses on drawing objects, applying textures, managing lighting, and handling camera behavior. This modular design improves maintainability, readability, and scalability of the code. By separating responsibilities, the system becomes easier to extend and debug. This enhancement supports course outcomes related to software design improvement and innovation because it demonstrates better architectural organization and clearer responsibility separation.
+
+### Code Review Video
+The following video demostrates my code review from Module 2, where I analyzed and explained improvements made to my CS-330 3D graphics project.
+
+Vedeo Link:
+[Watch Code Review Video] (https://snhu-my.sharepoint.com/:v:/g/personal/benjamin_vallejovazquez_snhu_edu/IQAZ8InTQjp-QJsTNqBDp8AyAREOYyQNzaAfvnDNJ2m7Xes?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NSALY9)
